@@ -1,5 +1,3 @@
-# time-series-to-complex-networks-
-
 # Time Series to Complex Networks
 
 Este repositorio contiene el código usado en el trabajo de grado:
